@@ -9,6 +9,7 @@ public class DemoTest {
 @Test
 public void loginAction() {
 	System.out.println("done");
+	System.out.println("done");
 }
 //as per leads review demo is updated
 }
